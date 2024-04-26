@@ -9,10 +9,3 @@
 @media (prefers-color-scheme: dark) {
     /* 也许可以在这里为dark mode添加图片, 但是具体我不是很清楚 qwq */
 }
-
-
-{
-  "vscode_custom_css.imports": [
-    "file:///YourUserRoot/.vscode/extension/vsc.css"
-  ],
-}
