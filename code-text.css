@@ -1,0 +1,18 @@
+.editor-group-watermark>.letterpress {
+    background-image: url("https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode.png") !important;
+    opacity: 0.75;
+    overflow: visible;
+    filter: none;
+    transform: scale(1.5, 1.5);
+}
+
+@media (prefers-color-scheme: dark) {
+    /* 也许可以在这里为dark mode添加图片, 但是具体我不是很清楚 qwq */
+}
+
+
+{
+  "vscode_custom_css.imports": [
+    "file:///YourUserRoot/.vscode/extension/vsc.css"
+  ],
+}
