@@ -1,0 +1,28 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "code-runner.preserveFocus": false,
+    "jupyter.askForKernelRestart": false,
+    "editor.formatOnSave": true,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.formatOnSave"
+    ],
+    "extensions.autoUpdate": "onlySelectedExtensions",
+    "Lingma.localMachineModel": true,
+    "json.schemas": [
+        
+    ],
+    "vscode_custom_css.imports": [
+        "file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/vscode-custom-20240427.css"
+    ],
+}
