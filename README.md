@@ -3,7 +3,7 @@
 2024 0427 趣味项目 我的vscode不可能这么可爱
 
 # 成功
-<img width="1803" alt="image" src="https://github.com/mykcs/fun-vscode/assets/165669834/a9c0f307-6572-49d2-8096-4085be475e2d">
+<img width="1334" alt="image" src="https://github.com/mykcs/fun-vscode-logo-mac/assets/165669834/ba8d3c4a-2ca2-44d4-95d7-e932fb09f960">
 
 ---
 
