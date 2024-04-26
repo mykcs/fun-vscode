@@ -34,3 +34,14 @@ setting 搜索json 添加这些
 video 【《我的VS Code 不可能这么可爱!》之 修改VS code 背景logo-哔哩哔哩】 https://b23.tv/DbH0zh6
 
 png base64 https://www.jyshare.com/front-end/59/
+
+---
+
+# 展示logo的小网站 
+
+https://vtuber-style-logos.vercel.app/
+
+# 相关项目
+
+https://github.com/be5invis/vscode-custom-css
+
